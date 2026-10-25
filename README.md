@@ -6,11 +6,26 @@ Cybersecurity graduate from the University of Mosul, based in Mosul, Iraq. My wo
 
 ## Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-374151?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-334155?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+![Nmap](https://img.shields.io/badge/Nmap-475569?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-475569?style=flat)
+![SQLMap](https://img.shields.io/badge/SQLMap-475569?style=flat)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-475569?style=flat)
+
 - **Security:** Penetration testing, vulnerability assessment, web security auditing, and computer networking fundamentals.
 - **Tools:** Nmap, Wireshark, Metasploit, SQLMap, and OWASP ZAP.
 - **Languages and frameworks:** Python, Flask, React, and TypeScript.
 
 ## Certifications and Training
+
+![Hackviser CORE certified](https://img.shields.io/badge/Hackviser-CORE-2F6F62?style=flat)
+![Hackviser CAPT certified](https://img.shields.io/badge/Hackviser-CAPT-2F6F62?style=flat)
+![CWSE training completed](https://img.shields.io/badge/CWSE-Training%20completed-475569?style=flat)
 
 - **Certified Cybersecurity Foundations (CORE)** — Hackviser, July 2026. Completed foundational training and practical security exercises.
 - **Certified Associate Penetration Tester (CAPT)** — Hackviser. Hands-on assessment of penetration testing methods, tools, and techniques.
@@ -56,3 +71,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
