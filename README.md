@@ -32,7 +32,7 @@ Cybersecurity graduate from the University of Mosul, based in Mosul, Iraq. My wo
 
 - **Email:** [mohmadalhalima@gmail.com](mailto:mohmadalhalima@gmail.com)
 - **GitHub:** [mohalima1](https://github.com/mohalima1)
-- **LinkedIn:** [Mohammed Ibrahim](https://linkedin.com/in/mohammed-ibrahim)
+- **LinkedIn:** [Mohammed Ibrahim](https://www.linkedin.com/in/mohammed-ibrahim-a56970372/)
 
 ## Contributions
 
