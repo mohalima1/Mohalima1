@@ -1,6 +1,6 @@
 # Mohammed Ibrahim Al-Halima
 
-![Mohammed Ibrahim Mohammed | Cybersecurity Graduate | Security Developer](https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3500&pause=1800&color=64748B&vCenter=true&width=420&height=36&lines=Mohammed+Ibrahim+Mohammed;Cybersecurity+Graduate;Security+Developer)
+![Mohammed Ibrahim Mohammed | Cybersecurity Engineer | Security Developer](https://readme-typing-svg.demolab.com?font=Roboto&size=20&duration=3500&pause=1800&color=64748B&vCenter=true&width=420&height=36&lines=Mohammed+Ibrahim+Mohammed;Cybersecurity+Graduate;Security+Developer)
 
 Cybersecurity graduate from the University of Mosul, based in Mosul, Iraq. My work focuses on penetration testing, web security, and secure web development with Python, Flask, and React.
 
